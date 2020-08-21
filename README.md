@@ -48,7 +48,7 @@ Hint: All four box plots should be within the same figure. Use this Matplotlib d
 
 ## Results
 
-1. Out of the four selected regimens (Capomulin, Ramicane, Infubinol, and Ceftamin), Capomulin and Ramicane have a lower median of final tumor volume level comparing with Infubinol and Ceftamin. This may indicate a better treatment result of Capomulin and Ramicane. 
+1. Out of the four selected regimens (Capomulin, Ramicane, Infubinol, and Ceftamin), Capomulin and Ramicane have lower median of final tumor volume level comparing with Infubinol and Ceftamin. This may indicate a better treatment result of Capomulin and Ramicane. 
 
 
 ![boxplot](https://user-images.githubusercontent.com/55970064/90853548-15b7ca80-e340-11ea-9ae2-ae855e78c584.png)
