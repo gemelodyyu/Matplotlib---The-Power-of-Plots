@@ -50,4 +50,14 @@ Hint: All four box plots should be within the same figure. Use this Matplotlib d
 
 1. Out of the four selected regimens (Capomulin, Ramicane, Infubinol, and Ceftamin), Capomulin and Ramicane have a lower median of final tumor volume level comparing with Infubinol and Ceftamin. This may indicate a better treatment result of Capomulin and Ramicane. 
 
+
+![boxplot](https://user-images.githubusercontent.com/55970064/90853548-15b7ca80-e340-11ea-9ae2-ae855e78c584.png)
+
+
 2. There is a strong positive correlation between mouse weight and average tumor volume for the Capomulin regimen (r = 0.84). This indicate that as the value of mouse weight increases, so does the value of average tumor volume.
+
+
+3. The linear regression equation between mouse weight and average tumor volume for the Capomulin regimen is y = 0.95x + 21.55. It means that for one point increase in mouse weight, there is 0.95 point increase in average tumor volume. 
+
+
+![regression](https://user-images.githubusercontent.com/55970064/90853575-2bc58b00-e340-11ea-8807-cfcf632bbb3f.png)
